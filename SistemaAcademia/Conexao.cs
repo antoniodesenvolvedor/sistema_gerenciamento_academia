@@ -10,9 +10,8 @@ namespace SistemaAcademia
 {
     class Conexao
     {
-
-        public static String stringConexao = "server = DESKTOP-2PFFL9I; Database = db_academia;" +
-                "Integrated Security = true";
+        // adicionar caminho do banco de dados
+        public static String stringConexao = "";
 
     }
 }
